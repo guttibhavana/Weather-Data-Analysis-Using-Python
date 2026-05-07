@@ -1,7 +1,5 @@
 # Weather-Data-Analysis-Using-Python
 
-# Weather Data Analysis Using Python
-
 ## Project Overview
 This project analyzes a weather dataset using Python and Pandas.
 
