@@ -49,6 +49,12 @@ Examples:
 - Visibility equal to 25
 - Weather clear with humidity above 50
 
+## Future Improvements
+- Add machine learning prediction models
+- Build dashboard using Streamlit
+- Create interactive visualizations
+- Automate weather reporting
+
 ## Sample Code
 
 ```python
